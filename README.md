@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlameF0X
 - 😄 Pronouns: He/Him
 - 👀 I’m interested in Chatbots, Web Development and silly projects.
-- 🌱 I’m currently learning JavaScript, Python, Jupyter Notebook and machine learning and also how to use pip/cmd/powershield.
+- 🌱 I’m currently learning JavaScript, Python, Jupyter Notebook, LUAU and machine learning and also how to use pip/cmd/powershield.
 - 📫 How to reach me: You don't.
 - ⚡ Fun fact: 404
 
