@@ -1,9 +1,5 @@
 -  Hi, I’m @FlameF0X
 -  Pronouns: He/Him
--  I’m interested in Chatbots, Web Development and silly projects.
--  I’m currently learning JavaScript, Python, Jupyter Notebook, LUAU and machine learning and also how to use pip/cmd/powershield.
--  How to reach me: You don't.
--  Organisation: [2F AI](https://github.com/2F-AI) - Founder
 
 <!---
 FlameF0X/FlameF0X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
