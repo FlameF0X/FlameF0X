@@ -1,9 +1,9 @@
 -  Hi, I’m @FlameF0X
 -  Pronouns: He/Him
 ---
-|Languages I know|Language I learned|
-|------|----|
-|Python|Rust|
+|   Languages I know   |Language I learned|
+|----------------------|------------------|
+|Python (at some level)|       Rust       |
 
 <!---
 FlameF0X/FlameF0X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
