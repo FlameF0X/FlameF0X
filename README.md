@@ -1,7 +1,7 @@
 -  Hi, I’m @FlameF0X
 -  Pronouns: He/Him
 ---
-
+|------|----|
 |Python|Rust|
 
 <!---
