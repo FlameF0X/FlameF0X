@@ -1,7 +1,7 @@
 -  Hi, I’m @FlameF0X
 -  Pronouns: He/Him
 ---
-|   Languages I know   |Language I learned|
+|   Languages I know   | Language I learn |
 |----------------------|------------------|
 |Python (at some level)|       Rust       |
 
