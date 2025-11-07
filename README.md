@@ -1,4 +1,4 @@
--  Hi, I’m @FlameF0X
+-  Hi, I’m @FlameF0X (Daniel)
 -  Pronouns: He/Him
 ---
 |   Languages I know   | Language I learn |
